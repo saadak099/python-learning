@@ -9,4 +9,4 @@ I am learning Python and AI.
 - Learn Python
 - Learn AI
 - Build projects
-- Learn GitHub
+- Learn GitHub 
